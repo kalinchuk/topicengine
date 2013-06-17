@@ -1,2 +1,2 @@
-topengine
+Ruby Topic Engine
 =========
